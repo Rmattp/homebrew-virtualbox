@@ -1,8 +1,8 @@
-cask 'virtualbox@6.1.0' do
-  version '6.1.0'
-  sha256 '77af2fef56d8e6cebf74e5999c97c03a7817a9557ea960c3c6db89f5007215db'
+cask 'virtualbox@5.2.44' do
+  version '5.2.44'
+  sha256 '0b375c7997a2dd3c8de0d0932b65108f81fdba61d6757ceabe0ee5ed13395411'
 
-  url 'https://download.virtualbox.org/virtualbox/6.1.0/VirtualBox-6.1.0-135406-OSX.dmg'
+  url 'https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-OSX.dmg'
   appcast 'https://download.virtualbox.org/virtualbox/LATEST.TXT'
   name 'Oracle VirtualBox'
   homepage 'https://www.virtualbox.org/'
